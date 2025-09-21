@@ -1,5 +1,11 @@
 # Guia para usar o Laravel-app
 
+### Clone o projeto laravel-app
+
+```
+git clone 'https://github.com/AlexandreBnovais/Laravel-app.git'
+```
+
 ### Instale as dependencias 
 
 ```
