@@ -7,7 +7,7 @@ git clone 'https://github.com/AlexandreBnovais/Laravel-app.git'
 ```
 ### Entre na pasta larave-app
 ```
-cd Larave-app
+cd Laravel-app
 ```
 ### Instale as dependencias 
 
